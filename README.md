@@ -1,7 +1,5 @@
 # Aplicacion Stateless Flutter Practica - 5
 
-
-
 [![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)](https://postimg.cc/MvzwBvyZ)
 
 <div align="Justify">
@@ -25,7 +23,7 @@ Practica 5 creacion de Cards en una aplicacion de flutter
 | Característica | Información |
 | :------------: | :------------: |
 | Nombre | \*_Practica 5_ App Flutter\* |
-| Descripción |creacion de Cards en una aplicacion de flutter|
+| Descripción |Creamos una aplicacion de tipo stateless en flutter donde se muestra un contenido de tres Cards con el contenido de un texto y un icono dentro , y de fondo de pantalla integramos lo que es un fondo degradado de 5 colores.|
 | Fecha de Carga | 13/09/23 |
 
 # practica5_200527
