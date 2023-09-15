@@ -133,7 +133,7 @@ class _MyHomePageState extends State<MyHomePage> {
       extendBody: true,
       // background se implementa en Scaftold para fondo de pantalla
       appBar: AppBar(
-        elevation: 50,
+        elevation: 100,
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Text(widget.title),
       ),
@@ -184,10 +184,10 @@ class _MyHomePageState extends State<MyHomePage> {
   /* Future<void> _soundbutton() async {
     Soundpool pool = Soundpool(streamType: StreamType.notification);
 
-    int soundId =
+    int soundId 
         await rootBundle.load("`assets/1.mp3").then((ByteData soundData) {
       return pool.load(soundData);
     });
-    int streamId = await pool.play(soundId);
+    int streamId = await pool.play(soundI=d);
   } */
 }
