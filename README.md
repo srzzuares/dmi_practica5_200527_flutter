@@ -28,17 +28,18 @@ Practica 5 creacion de Cards en una aplicacion de flutter
 
 # practica5_200527
 
-A new Flutter project.
+## Instalación
 
-## Getting Started
+Para ejecutar esta aplicación, sigue estos pasos:
 
-This project is a starting point for a Flutter application.
+1. Asegúrate de tener Flutter y Dart instalados en tu sistema.
 
-A few resources to get you started if this is your first Flutter project:
+2. Clona este repositorio o descarga el código fuente.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Abre una terminal en la carpeta del proyecto.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Ejecuta `flutter pub get` para obtener las dependencias.
+
+5. Ejecuta `flutter run` para iniciar la aplicación en un emulador o dispositivo físico.
+
+
